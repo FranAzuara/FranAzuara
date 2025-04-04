@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Fran Azuara</h1>
-<h3 align="center">Un apasionado en aprender sobre el Desarrollo Web</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🔭 Proyecto actual [RetroVinyl](https://sample-service-name-8whm.onrender.com)
 
